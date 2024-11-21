@@ -16,4 +16,16 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/medi17/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/medi17/LeetCode/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/medi17/LeetCode/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/medi17/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/medi17/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
