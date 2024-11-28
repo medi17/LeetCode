@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/medi17/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/medi17/LeetCode/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/medi17/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/medi17/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/medi17/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -41,5 +42,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/medi17/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/medi17/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
