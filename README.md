@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/medi17/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/medi17/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/medi17/LeetCode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/medi17/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/medi17/LeetCode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/medi17/LeetCode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/medi17/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -24,6 +25,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/medi17/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/medi17/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/medi17/LeetCode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/medi17/LeetCode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/medi17/LeetCode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/medi17/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/medi17/LeetCode/tree/master/2551-apply-operations-to-an-array) |
