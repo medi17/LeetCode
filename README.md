@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/medi17/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/medi17/LeetCode/tree/master/0258-add-digits) |
 ## Simulation
 |  |
