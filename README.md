@@ -28,12 +28,14 @@
 | [0283-move-zeroes](https://github.com/medi17/LeetCode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/medi17/LeetCode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/medi17/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/medi17/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/medi17/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/medi17/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/medi17/LeetCode/tree/master/0258-add-digits) |
+| [2481-strictly-palindromic-number](https://github.com/medi17/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/medi17/LeetCode/tree/master/0861-flipping-an-image) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/medi17/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
