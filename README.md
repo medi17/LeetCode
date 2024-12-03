@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/medi17/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/medi17/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/medi17/LeetCode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/medi17/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/medi17/LeetCode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/medi17/LeetCode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/medi17/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -105,4 +106,8 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/medi17/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/medi17/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/medi17/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/medi17/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
