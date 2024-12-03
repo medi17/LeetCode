@@ -8,7 +8,7 @@ class Solution(object):
             max_sum = max(current_sum, max_sum)
 
       
-        return float(max_sum)/k
+        return max_sum/float(k)
         """
         :type nums: List[int]
         :type k: int
