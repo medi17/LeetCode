@@ -45,6 +45,7 @@
 | [2481-strictly-palindromic-number](https://github.com/medi17/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/medi17/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/medi17/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/medi17/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0125-valid-palindrome](https://github.com/medi17/LeetCode/tree/master/0125-valid-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/medi17/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/medi17/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/medi17/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String Matching
 |  |
 | ------- |
